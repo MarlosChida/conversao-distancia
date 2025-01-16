@@ -32,7 +32,7 @@ A imagem gerada estará disponível localmente.
 Criar tags para o Docker Hub (seu repositório), criando também a tag  "latest" para a imagem gerada acima:
 
 Executar os comandos abaixo, ajustando o nome do repositório conforme desejado,
-No exemplo abaixo, as imagens serão hospedadas no Docker Hub na URL:
+No exemplo abaixo, as imagens serão hospedadas no Docker Hub na URL (https://hub.docker.com/repository/docker/marloschida/conversao-distancia/general):
 
 [Docker Hub Marlos Chida]([https://hub.docker.com/](https://hub.docker.com/repository/docker/marloschida/conversao-distancia/general)
 
